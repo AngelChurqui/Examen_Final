@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "cubotest", "cubotest\cubotest.dwproj", "{4CBF6D2D-7943-4F81-8954-98C98FE2DC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBF6D2D-7943-4F81-8954-98C98FE2DC20}.Development|Default.ActiveCfg = Development
+		{4CBF6D2D-7943-4F81-8954-98C98FE2DC20}.Development|Default.Build.0 = Development
+		{4CBF6D2D-7943-4F81-8954-98C98FE2DC20}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72793CFA-1C8D-4D19-922A-9E59667250C5}
+	EndGlobalSection
+EndGlobal
